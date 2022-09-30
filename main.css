@@ -1,0 +1,37 @@
+body{
+    font-family: 'Archivo Black', sans-serif;
+    background-image: url(./assets/2401_South_Park.webp);
+    background-size: cover;
+    
+}
+
+div{
+    display: flex;
+    align-items: baseline;
+    justify-content: baseline;
+    padding-top: 650px;
+   
+}
+
+figure{
+    margin: 50px 0 10px 0;
+}
+
+#title{
+    font-size: 120px;
+    margin-bottom: -10px;
+    margin-top: -10px;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+.text{
+    font-size: large;
+    text-align: center;
+}
+
+#eric{
+    height: 340px;
+    width: 350px;
+}
+
